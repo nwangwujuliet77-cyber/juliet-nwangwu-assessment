@@ -1,4 +1,25 @@
 body{
     font-family: Arial, sans-serif;
     margin:40px;
+    background-color: blue;
+    padding: 30px;
+}
+.header {
+    background-color: darkblue;
+    color: white;
+    padding: 15px;
+}
+.content {
+    padding: 20px;
+}
+.content p {
+    background-color: white;
+    color: white;
+    boder-radius: 5px;
+    margin-top: 15px;
+}
+.footer{
+    color: gray;
+    font-size: 14px;
+    margin-top: 202px;
 }
